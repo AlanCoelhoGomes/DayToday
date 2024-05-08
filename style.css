@@ -1,0 +1,32 @@
+body {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+h1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff; /* Cor de fundo opcional */
+    color: #333; /* Cor do texto opcional */
+    padding: 1rem 2rem; /* Espaçamento opcional para o conteúdo */
+    text-align: center; /* Alinhamento central do texto opcional */
+    z-index: 1000; /* Nível de z-index alto para garantir que fique sobreposto ao conteúdo */
+  }
+
+  p {
+    text-align: center;
+  }
+  
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f0f0f0; /* Optional: Set a background color */
+    color: #333; /* Optional: Set the text color */
+    padding: 1rem 2rem; /* Optional: Add padding for content */
+    text-align: center; /* Optional: Center the content */
+  }
+  
